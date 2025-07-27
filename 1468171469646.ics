@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//in-contact.org//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Africa/Johannesburg
+X-LIC-LOCATION:Africa/Johannesburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+TZNAME:SAST
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250819T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250819
+DTEND;TZID=Africa/Johannesburg:20250820
+SUMMARY:iris Follow up STEPi
+DESCRIPTION:Was busy implementing website first 084 6832600
+UID:3935@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250728T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250728
+DTEND;TZID=Africa/Johannesburg:20250729
+SUMMARY:iris test
+UID:3944@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250818T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250818
+DTEND;TZID=Africa/Johannesburg:20250819
+SUMMARY:TAFTA: Follow up
+DESCRIPTION:Thanks and certificates set up?  Contant certifica
+UID:3928@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250815T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250815
+DTEND;TZID=Africa/Johannesburg:20250816
+SUMMARY:Cape Town Philharmonic Orchestra: Contact
+DESCRIPTION:How are proposals going?
+UID:3929@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250815T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250815
+DTEND;TZID=Africa/Johannesburg:20250816
+SUMMARY:St Josephs Home: Contact
+DESCRIPTION:Did she try grants?
+UID:3930@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250801T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250801
+DTEND;TZID=Africa/Johannesburg:20250802
+SUMMARY:Summerhill House: Contact
+DESCRIPTION:Send a whatapp to see if Erika has spoken to her t
+UID:3940@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250807T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250807
+DTEND;TZID=Africa/Johannesburg:20250808
+SUMMARY:Greenpop: Follow up
+DESCRIPTION:Are they happy after presentation to go ahead
+UID:3942@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250730T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250730
+DTEND;TZID=Africa/Johannesburg:20250731
+SUMMARY:TAFTA: Check on certificate template
+DESCRIPTION:Is it approved
+UID:3943@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
