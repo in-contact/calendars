@@ -26,7 +26,8 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250730
 DTEND;TZID=Africa/Johannesburg:20250731
-SUMMARY:iris test3
+SUMMARY:iris Lomg task
+DESCRIPTION:dsaf asdf sad fdasfsadfsadf fsda sdaf sad af sadf 
 UID:3946@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
