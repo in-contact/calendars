@@ -20,6 +20,7 @@ DTEND;TZID=Africa/Johannesburg:20250724
 SUMMARY:kay: Godswill Collect Medication
 DESCRIPTION:Monthly repeat medication collection
 
+LOCATION:https://in-contact.org/task/84/357
 UID:357@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,6 +29,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250722T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250722
 DTEND;TZID=Africa/Johannesburg:20250723
 SUMMARY:kay: Confirm Uber time Godswill
+LOCATION:https://in-contact.org/task/84/358
 UID:358@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -36,6 +38,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250721T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250721
 DTEND;TZID=Africa/Johannesburg:20250722
 SUMMARY:kay: Godswill remind Favour and sen
+LOCATION:https://in-contact.org/task/84/359
 UID:359@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -46,6 +49,7 @@ DTEND;TZID=Africa/Johannesburg:20250821
 SUMMARY:kay: Godswill Medication Collection
 DESCRIPTION:Monthly repeat medication collection
 
+LOCATION:https://in-contact.org/task/84/360
 UID:360@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -54,6 +58,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250819T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
 SUMMARY:kay:  GodswillConfirm Uber time 
+LOCATION:https://in-contact.org/task/84/361
 UID:361@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -62,6 +67,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250818T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250818
 DTEND;TZID=Africa/Johannesburg:20250819
 SUMMARY:kay: Godswill Remind Favour and sen
+LOCATION:https://in-contact.org/task/84/362
 UID:362@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,6 +76,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250711T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250711
 DTEND;TZID=Africa/Johannesburg:20250712
 SUMMARY:kay: Themba Appoint Dr Mol @9.15
+LOCATION:https://in-contact.org/task/84/372
 UID:372@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -78,6 +85,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250708T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250708
 DTEND;TZID=Africa/Johannesburg:20250709
 SUMMARY:kay: Email Dr Mol re Themba
+LOCATION:https://in-contact.org/task/84/373
 UID:373@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -86,6 +94,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250707T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250707
 DTEND;TZID=Africa/Johannesburg:20250708
 SUMMARY:Imange Ntsantsa: Order Pediasure\,Nappies\, Apple
+LOCATION:https://in-contact.org/task/84/109
 UID:109@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -94,6 +103,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250721T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250721
 DTEND;TZID=Africa/Johannesburg:20250722
 SUMMARY:Imange Ntsantsa: Organise Imange Delivery
+LOCATION:https://in-contact.org/task/84/177
 UID:177@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
