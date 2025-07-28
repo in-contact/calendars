@@ -17,7 +17,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250819T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
-SUMMARY:iris Follow up STEPi
+SUMMARY:iris: Follow up STEPi
 DESCRIPTION:Was busy implementing website first\n084 6832600
 
 UID:3935@in-contact.org
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250730
 DTEND;TZID=Africa/Johannesburg:20250731
-SUMMARY:iris Lomg task
+SUMMARY:iris: Lomg task
 DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsadfsd
  fsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
 
