@@ -45,4 +45,12 @@ SUMMARY:Sbonelo Zondo: Court Order Expires
 UID:4305@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250828T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250828
+DTEND;TZID=Africa/Johannesburg:20250829
+SUMMARY:Israel  Isaacs: Court Order Expires
+UID:4753@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
