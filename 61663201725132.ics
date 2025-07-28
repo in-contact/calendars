@@ -19,6 +19,7 @@ DTSTART;TZID=Africa/Johannesburg:20250723
 DTEND;TZID=Africa/Johannesburg:20250724
 SUMMARY:kay Godswill Collect Medication
 DESCRIPTION:Monthly repeat medication collection
+
 UID:357@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -44,6 +45,7 @@ DTSTART;TZID=Africa/Johannesburg:20250820
 DTEND;TZID=Africa/Johannesburg:20250821
 SUMMARY:kay Godswill Medication Collection
 DESCRIPTION:Monthly repeat medication collection
+
 UID:360@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
