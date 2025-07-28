@@ -18,6 +18,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250821T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250821
 DTEND;TZID=Africa/Johannesburg:20250822
 SUMMARY:Aphile Kheswa: Court Order Expires
+LOCATION:https://in-contact.org/task/34/3593
 UID:3593@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -26,6 +27,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250821T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250821
 DTEND;TZID=Africa/Johannesburg:20250822
 SUMMARY:Aphelele Kheswa: Court Order Expires
+LOCATION:https://in-contact.org/task/34/3609
 UID:3609@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -34,6 +36,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250821T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250821
 DTEND;TZID=Africa/Johannesburg:20250822
 SUMMARY:Uyomukela Mkhize: Court Order Expires
+LOCATION:https://in-contact.org/task/34/4070
 UID:4070@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,6 +45,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250720T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250720
 DTEND;TZID=Africa/Johannesburg:20250721
 SUMMARY:Sbonelo Zondo: Court Order Expires
+LOCATION:https://in-contact.org/task/34/4305
 UID:4305@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -50,6 +54,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250828T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250828
 DTEND;TZID=Africa/Johannesburg:20250829
 SUMMARY:Israel  Isaacs: Court Order Expires
+LOCATION:https://in-contact.org/task/34/4753
 UID:4753@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
