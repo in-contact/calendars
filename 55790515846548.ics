@@ -19,6 +19,7 @@ DTSTART;TZID=Africa/Johannesburg:20250811
 DTEND;TZID=Africa/Johannesburg:20250812
 SUMMARY:mariana Henriette 
 DESCRIPTION:Driver's license expires (follow up on PDP appl - 5/6)
+
 UID:5021@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
