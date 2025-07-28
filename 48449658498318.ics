@@ -18,6 +18,7 @@ DTSTAMP;TZID=Africa/Johannesburg:20250818T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250818
 DTEND;TZID=Africa/Johannesburg:20250819
 SUMMARY:Thandi Dube: Court Order Expires
+LOCATION:https://in-contact.org/task/66/1092
 UID:1092@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
