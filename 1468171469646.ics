@@ -101,17 +101,6 @@ UID:3940@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250807T000000
-DTSTART;TZID=Africa/Johannesburg:20250807
-DTEND;TZID=Africa/Johannesburg:20250808
-SUMMARY:Greenpop: Follow up
-DESCRIPTION:Are they happy after presentation to go ahead
-
-LOCATION:https://in-contact.org?task=3942
-UID:3942@in-contact.org
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250808T000000
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
