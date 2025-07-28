@@ -112,9 +112,9 @@ UID:3942@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250731T000000
-DTSTART;TZID=Africa/Johannesburg:20250731
-DTEND;TZID=Africa/Johannesburg:20250801
+DTSTAMP;TZID=Africa/Johannesburg:20250808T000000
+DTSTART;TZID=Africa/Johannesburg:20250808
+DTEND;TZID=Africa/Johannesburg:20250809
 SUMMARY:TAFTA: Check on certificate template
 DESCRIPTION:Is it approved
 
