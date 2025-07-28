@@ -20,6 +20,7 @@ DTEND;TZID=Africa/Johannesburg:20250820
 SUMMARY:iris: Follow up STEPi
 DESCRIPTION:Was busy implementing website first\n084 6832600
 
+LOCATION:https://in-contact.org/task/2/3935
 UID:3935@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -31,7 +32,26 @@ SUMMARY:iris: Lomg task
 DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsadfsd
  fsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
 
+LOCATION:https://in-contact.org/task/2/3946
 UID:3946@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250804T100000Z
+DTSTART;TZID=Africa/Johannesburg:20250804T080000Z
+DTEND;TZID=Africa/Johannesburg:20250804T090000Z
+SUMMARY:iris: short task
+LOCATION:https://in-contact.org/task/2/3947
+UID:3947@in-contact.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250805T000000Z
+DTSTART;TZID=Africa/Johannesburg:20250805
+DTEND;TZID=Africa/Johannesburg:20250807
+SUMMARY:iris: long task
+LOCATION:https://in-contact.org/task/2/3948
+UID:3948@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -42,6 +62,7 @@ SUMMARY:TAFTA: Follow up
 DESCRIPTION:Thanks and certificates set up? \nContant certificate approval\nNo organiza
  tions\nMissing donor details
 
+LOCATION:https://in-contact.org/task/2/3928
 UID:3928@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -52,6 +73,7 @@ DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:Cape Town Philharmonic Orchestra: Contact
 DESCRIPTION:How are proposals going?
 
+LOCATION:https://in-contact.org/task/2/3929
 UID:3929@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -62,6 +84,7 @@ DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:St Josephs Home: Contact
 DESCRIPTION:Did she try grants?
 
+LOCATION:https://in-contact.org/task/2/3930
 UID:3930@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -73,6 +96,7 @@ SUMMARY:Summerhill House: Contact
 DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. She was not up t
  o speed on how they were doing on both systems
 
+LOCATION:https://in-contact.org/task/2/3940
 UID:3940@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -83,6 +107,7 @@ DTEND;TZID=Africa/Johannesburg:20250808
 SUMMARY:Greenpop: Follow up
 DESCRIPTION:Are they happy after presentation to go ahead
 
+LOCATION:https://in-contact.org/task/2/3942
 UID:3942@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -93,6 +118,7 @@ DTEND;TZID=Africa/Johannesburg:20250801
 SUMMARY:TAFTA: Check on certificate template
 DESCRIPTION:Is it approved
 
+LOCATION:https://in-contact.org/task/2/3943
 UID:3943@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
