@@ -19,6 +19,7 @@ DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
 SUMMARY:iris Follow up STEPi
 DESCRIPTION:Was busy implementing website first\n084 6832600
+
 UID:3935@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -27,7 +28,9 @@ DTSTAMP;TZID=Africa/Johannesburg:20250730T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250730
 DTEND;TZID=Africa/Johannesburg:20250731
 SUMMARY:iris Lomg task
-DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf
+DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsadfsd
+ fsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
+
 UID:3946@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -36,7 +39,9 @@ DTSTAMP;TZID=Africa/Johannesburg:20250818T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250818
 DTEND;TZID=Africa/Johannesburg:20250819
 SUMMARY:TAFTA: Follow up
-DESCRIPTION:Thanks and certificates set up? \nContant certificate approv
+DESCRIPTION:Thanks and certificates set up? \nContant certificate approval\nNo organiza
+ tions\nMissing donor details
+
 UID:3928@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -46,6 +51,7 @@ DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:Cape Town Philharmonic Orchestra: Contact
 DESCRIPTION:How are proposals going?
+
 UID:3929@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -55,6 +61,7 @@ DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:St Josephs Home: Contact
 DESCRIPTION:Did she try grants?
+
 UID:3930@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -63,7 +70,9 @@ DTSTAMP;TZID=Africa/Johannesburg:20250801T000000Z
 DTSTART;TZID=Africa/Johannesburg:20250801
 DTEND;TZID=Africa/Johannesburg:20250802
 SUMMARY:Summerhill House: Contact
-DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. S
+DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. She was not up t
+ o speed on how they were doing on both systems
+
 UID:3940@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -73,6 +82,7 @@ DTSTART;TZID=Africa/Johannesburg:20250807
 DTEND;TZID=Africa/Johannesburg:20250808
 SUMMARY:Greenpop: Follow up
 DESCRIPTION:Are they happy after presentation to go ahead
+
 UID:3942@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
@@ -82,6 +92,7 @@ DTSTART;TZID=Africa/Johannesburg:20250731
 DTEND;TZID=Africa/Johannesburg:20250801
 SUMMARY:TAFTA: Check on certificate template
 DESCRIPTION:Is it approved
+
 UID:3943@in-contact.org
 STATUS:CONFIRMED
 END:VEVENT
