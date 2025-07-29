@@ -60,37 +60,37 @@ STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T161024
+DTSTAMP;TZID=Africa/Johannesburg:20250729T161240
 DTSTART;TZID=Africa/Johannesburg:20250730
 DTEND;TZID=Africa/Johannesburg:20250731
-SUMMARY:iris: Lomg task
+SUMMARY:iris: Lomg task1
 DESCRIPTION:dsafqqq\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsad
  fsdfsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
 
 LOCATION:https://in-contact.org?task=3946
 UID:3946@in-contact.org
 STATUS:CANCELLED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
+DTSTAMP;TZID=Africa/Johannesburg:20250729T161212
 DTSTART;TZID=Africa/Johannesburg:20250804T080000
 DTEND;TZID=Africa/Johannesburg:20250804T090000
-SUMMARY:iris: short task
+SUMMARY:iris: short task1
 LOCATION:https://in-contact.org?task=3947
 UID:3947@in-contact.org
 STATUS:CANCELLED
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
+DTSTAMP;TZID=Africa/Johannesburg:20250729T161214
 DTSTART;TZID=Africa/Johannesburg:20250805
 DTEND;TZID=Africa/Johannesburg:20250807
-SUMMARY:iris: long task
+SUMMARY:iris: long task1
 LOCATION:https://in-contact.org?task=3948
 UID:3948@in-contact.org
 STATUS:CANCELLED
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
@@ -207,7 +207,7 @@ STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T161048
+DTSTAMP;TZID=Africa/Johannesburg:20250729T161053
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
 SUMMARY:TAFTA: Check on certificate template
