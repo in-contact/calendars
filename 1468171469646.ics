@@ -14,7 +14,7 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250718T092039
+DTSTAMP;TZID=Africa/Johannesburg:20250729T152228
 DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
 SUMMARY:iris: Follow up STEPi
@@ -23,6 +23,7 @@ DESCRIPTION:Was busy implementing website first\n084 6832600
 LOCATION:https://in-contact.org?task=3935
 UID:3935@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250725T113816
@@ -34,6 +35,7 @@ DESCRIPTION:To send through spreadsheet. Been battling with skeleton staff.\n
 LOCATION:https://in-contact.org?task=3936
 UID:3936@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250727T111007
@@ -43,6 +45,7 @@ SUMMARY:iris: test
 LOCATION:https://in-contact.org?task=3944
 UID:3944@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250727T111005
@@ -54,6 +57,7 @@ DESCRIPTION:aaa
 LOCATION:https://in-contact.org?task=3945
 UID:3945@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T130441
@@ -66,6 +70,7 @@ DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsda
 LOCATION:https://in-contact.org?task=3946
 UID:3946@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T130450
@@ -75,6 +80,7 @@ SUMMARY:iris: short task
 LOCATION:https://in-contact.org?task=3947
 UID:3947@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T130452
@@ -84,6 +90,7 @@ SUMMARY:iris: long task
 LOCATION:https://in-contact.org?task=3948
 UID:3948@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250718T094402
@@ -93,6 +100,7 @@ SUMMARY: : test
 LOCATION:https://in-contact.org?task=3927
 UID:3927@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250718T094432
@@ -102,6 +110,7 @@ SUMMARY:Lindsey : xxxxxxx
 LOCATION:https://in-contact.org?task=3937
 UID:3937@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250718T094523
@@ -111,6 +120,7 @@ SUMMARY:Lindsey : aaaa
 LOCATION:https://in-contact.org?task=3938
 UID:3938@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250716T094729
@@ -123,6 +133,7 @@ DESCRIPTION:Thanks and certificates set up? \nContant certificate approval\nNo o
 LOCATION:https://in-contact.org?task=3928
 UID:3928@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250718T094402
@@ -134,6 +145,7 @@ DESCRIPTION:How are proposals going?
 LOCATION:https://in-contact.org?task=3929
 UID:3929@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250715T141842
@@ -145,6 +157,7 @@ DESCRIPTION:Did she try grants?
 LOCATION:https://in-contact.org?task=3930
 UID:3930@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250723T141605
@@ -156,6 +169,7 @@ DESCRIPTION:aaa\nbbb
 LOCATION:https://in-contact.org?task=3931
 UID:3931@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250718T094803
@@ -165,6 +179,7 @@ SUMMARY:247 Technologies: aaaaaaaaaaaa
 LOCATION:https://in-contact.org?task=3939
 UID:3939@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T132637
@@ -177,6 +192,7 @@ DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. She was n
 LOCATION:https://in-contact.org?task=3940
 UID:3940@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250728T145315
@@ -188,6 +204,7 @@ DESCRIPTION:Are they happy after presentation to go ahead
 LOCATION:https://in-contact.org?task=3942
 UID:3942@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250728T115919
@@ -199,5 +216,6 @@ DESCRIPTION:Is it approved
 LOCATION:https://in-contact.org?task=3943
 UID:3943@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:2
 END:VEVENT
 END:VCALENDAR
