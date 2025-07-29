@@ -60,17 +60,17 @@ STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
+DTSTAMP;TZID=Africa/Johannesburg:20250729T161024
 DTSTART;TZID=Africa/Johannesburg:20250730
 DTEND;TZID=Africa/Johannesburg:20250731
 SUMMARY:iris: Lomg task
-DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsadfsd
- fsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
+DESCRIPTION:dsafqqq\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsad
+ fsdfsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
 
 LOCATION:https://in-contact.org?task=3946
 UID:3946@in-contact.org
 STATUS:CANCELLED
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
@@ -207,16 +207,16 @@ STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
+DTSTAMP;TZID=Africa/Johannesburg:20250729T161048
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
 SUMMARY:TAFTA: Check on certificate template
-DESCRIPTION:Is it approved
+DESCRIPTION:Is it approved?
 
 LOCATION:https://in-contact.org?task=3943
 UID:3943@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T160226
