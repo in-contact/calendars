@@ -14,7 +14,7 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T130459
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
 DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
 SUMMARY:iris: Follow up STEPi
@@ -25,7 +25,74 @@ UID:3935@in-contact.org
 STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T130459
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250725
+DTEND;TZID=Africa/Johannesburg:20250726
+SUMMARY:iris: Call Johanri
+DESCRIPTION:To send through spreadsheet. Been battling with skeleton staff.\n
+
+LOCATION:https://in-contact.org?task=3936
+UID:3936@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250729
+DTEND;TZID=Africa/Johannesburg:20250730
+SUMMARY:iris: test
+LOCATION:https://in-contact.org?task=3944
+UID:3944@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250728
+DTEND;TZID=Africa/Johannesburg:20250729
+SUMMARY:iris: test2
+DESCRIPTION:aaa
+
+LOCATION:https://in-contact.org?task=3945
+UID:3945@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250805
+DTEND;TZID=Africa/Johannesburg:20250807
+SUMMARY:iris: long task
+LOCATION:https://in-contact.org?task=3948
+UID:3948@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250714
+DTEND;TZID=Africa/Johannesburg:20250715
+SUMMARY: : test
+LOCATION:https://in-contact.org?task=3927
+UID:3927@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250731
+DTEND;TZID=Africa/Johannesburg:20250801
+SUMMARY:Lindsey : xxxxxxx
+LOCATION:https://in-contact.org?task=3937
+UID:3937@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250724
+DTEND;TZID=Africa/Johannesburg:20250725
+SUMMARY:Lindsey : aaaa
+LOCATION:https://in-contact.org?task=3938
+UID:3938@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
 DTSTART;TZID=Africa/Johannesburg:20250818
 DTEND;TZID=Africa/Johannesburg:20250819
 SUMMARY:TAFTA: Follow up
@@ -37,7 +104,7 @@ UID:3928@in-contact.org
 STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T130459
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:Cape Town Philharmonic Orchestra: Contact
@@ -48,7 +115,7 @@ UID:3929@in-contact.org
 STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T130459
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:St Josephs Home: Contact
@@ -59,7 +126,16 @@ UID:3930@in-contact.org
 STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T130459
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
+DTSTART;TZID=Africa/Johannesburg:20250731
+DTEND;TZID=Africa/Johannesburg:20250801
+SUMMARY:247 Technologies: aaaaaaaaaaaa
+LOCATION:https://in-contact.org?task=3939
+UID:3939@in-contact.org
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
 DTSTART;TZID=Africa/Johannesburg:20250801
 DTEND;TZID=Africa/Johannesburg:20250802
 SUMMARY:Summerhill House: Contact
@@ -71,7 +147,7 @@ UID:3940@in-contact.org
 STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T130459
+DTSTAMP;TZID=Africa/Johannesburg:20250729T131545
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
 SUMMARY:TAFTA: Check on certificate template
