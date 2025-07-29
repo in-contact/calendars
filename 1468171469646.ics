@@ -14,7 +14,7 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120019
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
 SUMMARY:iris: Follow up STEPi
@@ -22,10 +22,10 @@ DESCRIPTION:Was busy implementing website first\n084 6832600
 
 LOCATION:https://in-contact.org?task=3935
 UID:3935@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120019
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250730
 DTEND;TZID=Africa/Johannesburg:20250731
 SUMMARY:iris: Lomg task
@@ -34,28 +34,28 @@ DESCRIPTION:dsaf\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsda
 
 LOCATION:https://in-contact.org?task=3946
 UID:3946@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120019
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250804T080000
 DTEND;TZID=Africa/Johannesburg:20250804T090000
 SUMMARY:iris: short task
 LOCATION:https://in-contact.org?task=3947
 UID:3947@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120019
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250805
 DTEND;TZID=Africa/Johannesburg:20250807
 SUMMARY:iris: long task
 LOCATION:https://in-contact.org?task=3948
 UID:3948@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120020
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250818
 DTEND;TZID=Africa/Johannesburg:20250819
 SUMMARY:TAFTA: Follow up
@@ -64,10 +64,10 @@ DESCRIPTION:Thanks and certificates set up? \nContant certificate approval\nNo o
 
 LOCATION:https://in-contact.org?task=3928
 UID:3928@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120020
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:Cape Town Philharmonic Orchestra: Contact
@@ -75,10 +75,10 @@ DESCRIPTION:How are proposals going?
 
 LOCATION:https://in-contact.org?task=3929
 UID:3929@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120020
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:St Josephs Home: Contact
@@ -86,10 +86,10 @@ DESCRIPTION:Did she try grants?
 
 LOCATION:https://in-contact.org?task=3930
 UID:3930@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120020
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250801
 DTEND;TZID=Africa/Johannesburg:20250802
 SUMMARY:Summerhill House: Contact
@@ -98,10 +98,10 @@ DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. She was n
 
 LOCATION:https://in-contact.org?task=3940
 UID:3940@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250729T120020
+DTSTAMP;TZID=Africa/Johannesburg:20250729T130323
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
 SUMMARY:TAFTA: Check on certificate template
@@ -109,6 +109,6 @@ DESCRIPTION:Is it approved
 
 LOCATION:https://in-contact.org?task=3943
 UID:3943@in-contact.org
-STATUS:CONFIRMED
+STATUS:COMPLETED
 END:VEVENT
 END:VCALENDAR
