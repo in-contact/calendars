@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152228
 DTSTART;TZID=Africa/Johannesburg:20250819
 DTEND;TZID=Africa/Johannesburg:20250820
-SUMMARY:iris: Follow up STEPi
+SUMMARY:iris - Follow up STEPi
 DESCRIPTION:Was busy implementing website first\n084 6832600
 LOCATION:https://in-contact.org?task=3935
 UID:v1-3935@in-contact.org
@@ -27,9 +27,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:iris: Call Johanri
+DTSTART;TZID=Africa/Johannesburg:20250725
+DTEND;TZID=Africa/Johannesburg:20250726
+SUMMARY:Cancelled: iris - Call Johanri
 DESCRIPTION:To send through spreadsheet. Been battling with skeleton staff.\n
 LOCATION:https://in-contact.org?task=3936
 UID:v1-3936@in-contact.org
@@ -38,9 +38,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:iris: test
+DTSTART;TZID=Africa/Johannesburg:20250729
+DTEND;TZID=Africa/Johannesburg:20250730
+SUMMARY:Cancelled: iris - test
 LOCATION:https://in-contact.org?task=3944
 UID:v1-3944@in-contact.org
 STATUS:CANCELLED
@@ -48,9 +48,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:iris: test2
+DTSTART;TZID=Africa/Johannesburg:20250728
+DTEND;TZID=Africa/Johannesburg:20250729
+SUMMARY:Cancelled: iris - test2
 DESCRIPTION:aaa
 LOCATION:https://in-contact.org?task=3945
 UID:v1-3945@in-contact.org
@@ -59,9 +59,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T161248
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:iris: Lomg task1
+DTSTART;TZID=Africa/Johannesburg:20250730
+DTEND;TZID=Africa/Johannesburg:20250731
+SUMMARY:Cancelled: iris - Lomg task1
 DESCRIPTION:dsafqqq\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf\ndafsdafsad
  fsdfsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfgsfdg\nend
 LOCATION:https://in-contact.org?task=3946
@@ -71,9 +71,9 @@ SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T161248
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:iris: short task1
+DTSTART;TZID=Africa/Johannesburg:20250804T080000
+DTEND;TZID=Africa/Johannesburg:20250804T090000
+SUMMARY:Cancelled: iris - short task1
 LOCATION:https://in-contact.org?task=3947
 UID:v1-3947@in-contact.org
 STATUS:CANCELLED
@@ -81,9 +81,9 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T161248
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:iris: long task1
+DTSTART;TZID=Africa/Johannesburg:20250805
+DTEND;TZID=Africa/Johannesburg:20250807
+SUMMARY:Cancelled: iris - long task1
 LOCATION:https://in-contact.org?task=3948
 UID:v1-3948@in-contact.org
 STATUS:CANCELLED
@@ -91,9 +91,9 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY: : test
+DTSTART;TZID=Africa/Johannesburg:20250714
+DTEND;TZID=Africa/Johannesburg:20250715
+SUMMARY:Cancelled:   - test
 LOCATION:https://in-contact.org?task=3927
 UID:v1-3927@in-contact.org
 STATUS:CANCELLED
@@ -101,9 +101,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:Lindsey : xxxxxxx
+DTSTART;TZID=Africa/Johannesburg:20250731
+DTEND;TZID=Africa/Johannesburg:20250801
+SUMMARY:Cancelled: Lindsey  - xxxxxxx
 LOCATION:https://in-contact.org?task=3937
 UID:v1-3937@in-contact.org
 STATUS:CANCELLED
@@ -111,9 +111,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:Lindsey : aaaa
+DTSTART;TZID=Africa/Johannesburg:20250724
+DTEND;TZID=Africa/Johannesburg:20250725
+SUMMARY:Cancelled: Lindsey  - aaaa
 LOCATION:https://in-contact.org?task=3938
 UID:v1-3938@in-contact.org
 STATUS:CANCELLED
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
 DTSTART;TZID=Africa/Johannesburg:20250818
 DTEND;TZID=Africa/Johannesburg:20250819
-SUMMARY:TAFTA: Follow up
+SUMMARY:TAFTA - Follow up
 DESCRIPTION:Thanks and certificates set up? \nContant certificate approval\nNo organiza
  tions\nMissing donor details
 LOCATION:https://in-contact.org?task=3928
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
-SUMMARY:Cape Town Philharmonic Orchestra: Contact
+SUMMARY:Cape Town Philharmonic Orchestra - Contact
 DESCRIPTION:How are proposals going?
 LOCATION:https://in-contact.org?task=3929
 UID:v1-3929@in-contact.org
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
-SUMMARY:St Josephs Home: Contact
+SUMMARY:St Josephs Home - Contact
 DESCRIPTION:Did she try grants?
 LOCATION:https://in-contact.org?task=3930
 UID:v1-3930@in-contact.org
@@ -155,9 +155,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:TAFTA: Resend email
+DTSTART;TZID=Africa/Johannesburg:20250722
+DTEND;TZID=Africa/Johannesburg:20250723
+SUMMARY:Cancelled: TAFTA - Resend email
 DESCRIPTION:aaa\nbbb
 LOCATION:https://in-contact.org?task=3931
 UID:v1-3931@in-contact.org
@@ -166,9 +166,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:247 Technologies: aaaaaaaaaaaa
+DTSTART;TZID=Africa/Johannesburg:20250731
+DTEND;TZID=Africa/Johannesburg:20250801
+SUMMARY:Cancelled: 247 Technologies - aaaaaaaaaaaa
 LOCATION:https://in-contact.org?task=3939
 UID:v1-3939@in-contact.org
 STATUS:CANCELLED
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
 DTSTART;TZID=Africa/Johannesburg:20250801
 DTEND;TZID=Africa/Johannesburg:20250802
-SUMMARY:Summerhill House: Contact Erika
+SUMMARY:Summerhill House - Contact Erika
 DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. She was not up t
  o speed on how they were doing on both systems
 LOCATION:https://in-contact.org?task=3940
@@ -188,9 +188,9 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T152342
-DTSTART;TZID=Africa/Johannesburg:20150730
-DTEND;TZID=Africa/Johannesburg:20150730
-SUMMARY:Greenpop: Follow up
+DTSTART;TZID=Africa/Johannesburg:20250807
+DTEND;TZID=Africa/Johannesburg:20250808
+SUMMARY:Cancelled: Greenpop - Follow up
 DESCRIPTION:Are they happy after presentation to go ahead
 LOCATION:https://in-contact.org?task=3942
 UID:v1-3942@in-contact.org
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T161053
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
-SUMMARY:TAFTA: Check on certificate template
+SUMMARY:TAFTA - Check on certificate template
 DESCRIPTION:Is it approved?
 LOCATION:https://in-contact.org?task=3943
 UID:v1-3943@in-contact.org
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250729T160226
 DTSTART;TZID=Africa/Johannesburg:20250731
 DTEND;TZID=Africa/Johannesburg:20250801
-SUMMARY:Penreach: Check for POP!
+SUMMARY:Penreach - Check for POP!
 LOCATION:https://in-contact.org?task=3949
 UID:v1-3949@in-contact.org
 STATUS:CONFIRMED
