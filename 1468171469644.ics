@@ -15,19 +15,19 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20250819
-DTEND;TZID=Africa/Johannesburg:20250820
+DTSTAMP;TZID=Africa/Johannesburg:20250801T125734
+DTSTART;TZID=Africa/Johannesburg:20250820
+DTEND;TZID=Africa/Johannesburg:20250822
 SUMMARY:iris - Follow up STEPi
 DESCRIPTION:Was busy implementing website first\n084 6832600
 UID:103935@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: iris - Call Johanri
 DESCRIPTION:To send through spreadsheet. Been battling with skeleton staff.
  \n
@@ -37,8 +37,8 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: iris - test
 UID:103944@in-contact.org
 STATUS:CANCELLED
@@ -46,8 +46,8 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: iris - test2
 DESCRIPTION:aaa
 UID:103945@in-contact.org
@@ -56,8 +56,8 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Complete: iris - Lomg task1
 DESCRIPTION:dsafqqq\nasdf\nsad\nfdasfsadfsadf\nfsda\nsdaf\nsad\naf\nsadf\nf
  \ndafsdafsadfsdfsdaf\nfsddfdsdfsadfsdaff\ndsgfdfsgdsfgdfgsdfg\ndfgdsfgfdfg
@@ -68,8 +68,8 @@ SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Complete: iris - short task1
 UID:103947@in-contact.org
 STATUS:CANCELLED
@@ -77,8 +77,8 @@ SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: iris - long task1
 UID:103948@in-contact.org
 STATUS:CANCELLED
@@ -86,17 +86,26 @@ SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T183102
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: iris - Test Event
 UID:103950@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250801T125827
+DTSTART;TZID=Africa/Johannesburg:20250819T090000
+DTEND;TZID=Africa/Johannesburg:20250819T100000
+SUMMARY:iris - aaaaaaaaa
+UID:103952@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted:   - test
 UID:103927@in-contact.org
 STATUS:CANCELLED
@@ -104,8 +113,8 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: Lindsey  - xxxxxxx
 UID:103937@in-contact.org
 STATUS:CANCELLED
@@ -113,48 +122,48 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131426
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: Lindsey  - aaaa
 UID:103938@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
-DTSTART;TZID=Africa/Johannesburg:20250818
-DTEND;TZID=Africa/Johannesburg:20250819
-SUMMARY:TAFTA - Follow up
+DTSTAMP;TZID=Africa/Johannesburg:20250801T030126
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
+SUMMARY:Deleted: TAFTA - Follow up
 DESCRIPTION:Thanks and certificates set up? \nContant certificate approval\
  nNo organizations\nMissing donor details
 UID:103928@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:3
+STATUS:CANCELLED
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
+DTSTAMP;TZID=Africa/Johannesburg:20250801T125327
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:Cape Town Philharmonic Orchestra - Contact
 DESCRIPTION:How are proposals going?
 UID:103929@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
+DTSTAMP;TZID=Africa/Johannesburg:20250801T125333
 DTSTART;TZID=Africa/Johannesburg:20250815
 DTEND;TZID=Africa/Johannesburg:20250816
 SUMMARY:St Josephs Home - Contact
 DESCRIPTION:Did she try grants?
 UID:103930@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Complete: TAFTA - Resend email
 DESCRIPTION:aaa\nbbb
 UID:103931@in-contact.org
@@ -163,28 +172,28 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: 247 Technologies - aaaaaaaaaaaa
 UID:103939@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
-DTSTART;TZID=Africa/Johannesburg:20250801
-DTEND;TZID=Africa/Johannesburg:20250802
+DTSTAMP;TZID=Africa/Johannesburg:20250801T125321
+DTSTART;TZID=Africa/Johannesburg:20250807
+DTEND;TZID=Africa/Johannesburg:20250808
 SUMMARY:Summerhill House - Contact Erika
 DESCRIPTION:Send a whatapp to see if Erika has spoken to her team yet. She 
  was not up to speed on how they were doing on both systems
 UID:103940@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250730T131427
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Complete: Greenpop - Follow up
 DESCRIPTION:Are they happy after presentation to go ahead
 UID:103942@in-contact.org
@@ -192,28 +201,28 @@ STATUS:CANCELLED
 SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T133055
+DTSTAMP;TZID=Africa/Johannesburg:20250801T125324
 DTSTART;TZID=Africa/Johannesburg:20250808
 DTEND;TZID=Africa/Johannesburg:20250809
 SUMMARY:TAFTA - Check on certificate
 DESCRIPTION:Is it approved?\naaa
 UID:103943@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:5
+SEQUENCE:7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250730T133055
-DTSTART;TZID=Africa/Johannesburg:20250801
-DTEND;TZID=Africa/Johannesburg:20250802
-SUMMARY:Penreach - Check for POP!
+DTSTAMP;TZID=Africa/Johannesburg:20250801T073135
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
+SUMMARY:Complete: Penreach - Check for POP!
 UID:103949@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:6
+STATUS:CANCELLED
+SEQUENCE:8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250731T135342
-DTSTART;TZID=Africa/Johannesburg:20150731
-DTEND;TZID=Africa/Johannesburg:20170730
+DTSTAMP;TZID=Africa/Johannesburg:20250731T140013
+DTSTART;TZID=Africa/Johannesburg:20150801
+DTEND;TZID=Africa/Johannesburg:20170731
 SUMMARY:Deleted: 4Front Computing - Sample
 UID:103951@in-contact.org
 STATUS:CANCELLED
