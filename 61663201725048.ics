@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//in-contact.org//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Africa/Johannesburg
+X-LIC-LOCATION:Africa/Johannesburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+TZNAME:SAST
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250318T113659
+DTSTART;TZID=Africa/Johannesburg:20250528
+DTEND;TZID=Africa/Johannesburg:20250529
+SUMMARY:kay - Godswill Neuro Check up
+DESCRIPTION:CMJAH
+UID:10319@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250318T113732
+DTSTART;TZID=Africa/Johannesburg:20250526
+DTEND;TZID=Africa/Johannesburg:20250527
+SUMMARY:kay - Remind Favour Godswill
+DESCRIPTION:Send R500 & Uber
+UID:10320@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250318T113747
+DTSTART;TZID=Africa/Johannesburg:20250527
+DTEND;TZID=Africa/Johannesburg:20250528
+SUMMARY:kay - Godswill confirm Uber time
+UID:10321@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250318T113916
+DTSTART;TZID=Africa/Johannesburg:20250617
+DTEND;TZID=Africa/Johannesburg:20250618
+SUMMARY:kay - Godswill ENT Clinic
+DESCRIPTION:CMJAH
+UID:10322@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250318T113941
+DTSTART;TZID=Africa/Johannesburg:20250615
+DTEND;TZID=Africa/Johannesburg:20250616
+SUMMARY:kay - Remind Favour Godswill
+DESCRIPTION:Send R500 & Uber
+UID:10323@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250318T113955
+DTSTART;TZID=Africa/Johannesburg:20250616
+DTEND;TZID=Africa/Johannesburg:20250617
+SUMMARY:kay - Godswill Confirm Uber
+UID:10324@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250504T163533
+DTSTART;TZID=Africa/Johannesburg:20250504
+DTEND;TZID=Africa/Johannesburg:20250505
+SUMMARY:kay - Godswill
+DESCRIPTION:Ordered Pediasure
+UID:10328@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150147
+DTSTART;TZID=Africa/Johannesburg:20250625
+DTEND;TZID=Africa/Johannesburg:20250626
+SUMMARY:kay - Godswill Collect Medication
+DESCRIPTION:Repeat Script Monthly medication collection
+UID:10354@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150205
+DTSTART;TZID=Africa/Johannesburg:20250624
+DTEND;TZID=Africa/Johannesburg:20250625
+SUMMARY:kay - Confirm Uber Time Godswill
+UID:10355@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150234
+DTSTART;TZID=Africa/Johannesburg:20250623
+DTEND;TZID=Africa/Johannesburg:20250624
+SUMMARY:kay - Remind Favour and send R200
+DESCRIPTION:Godswill ENT Clinic CMJAH
+UID:10356@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150316
+DTSTART;TZID=Africa/Johannesburg:20250723
+DTEND;TZID=Africa/Johannesburg:20250724
+SUMMARY:kay - Godswill Collect Medication
+DESCRIPTION:Monthly repeat medication collection
+UID:10357@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150329
+DTSTART;TZID=Africa/Johannesburg:20250722
+DTEND;TZID=Africa/Johannesburg:20250723
+SUMMARY:kay - Confirm Uber time Godswill
+UID:10358@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150352
+DTSTART;TZID=Africa/Johannesburg:20250721
+DTEND;TZID=Africa/Johannesburg:20250722
+SUMMARY:kay - Godswill remind Favour and sen
+UID:10359@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150426
+DTSTART;TZID=Africa/Johannesburg:20250820
+DTEND;TZID=Africa/Johannesburg:20250821
+SUMMARY:kay - Godswill Medication Collection
+DESCRIPTION:Monthly repeat medication collection
+UID:10360@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150456
+DTSTART;TZID=Africa/Johannesburg:20250819
+DTEND;TZID=Africa/Johannesburg:20250820
+SUMMARY:kay -  GodswillConfirm Uber time 
+UID:10361@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150523
+DTSTART;TZID=Africa/Johannesburg:20250818
+DTEND;TZID=Africa/Johannesburg:20250819
+SUMMARY:kay - Godswill Remind Favour and sen
+UID:10362@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150609
+DTSTART;TZID=Africa/Johannesburg:20250917
+DTEND;TZID=Africa/Johannesburg:20250918
+SUMMARY:kay - Godswill medication Collection
+DESCRIPTION:Collect repeat
+UID:10363@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150631
+DTSTART;TZID=Africa/Johannesburg:20250916
+DTEND;TZID=Africa/Johannesburg:20250917
+SUMMARY:kay - Godswill Confirm Uber time
+UID:10364@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150650
+DTSTART;TZID=Africa/Johannesburg:20250915
+DTEND;TZID=Africa/Johannesburg:20250916
+SUMMARY:kay - Godswill Remind Favour and sen
+UID:10365@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150727
+DTSTART;TZID=Africa/Johannesburg:20251015
+DTEND;TZID=Africa/Johannesburg:20251016
+SUMMARY:kay - Godswill Medication Collection
+DESCRIPTION:Monthly medication repeat
+UID:10366@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150752
+DTSTART;TZID=Africa/Johannesburg:20251014
+DTEND;TZID=Africa/Johannesburg:20251015
+SUMMARY:kay - Godswill confirm uber time
+UID:10367@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150809
+DTSTART;TZID=Africa/Johannesburg:20251013
+DTEND;TZID=Africa/Johannesburg:20251014
+SUMMARY:kay - Godswill remind Favour and sen
+UID:10368@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250606T141143
+DTSTART;TZID=Africa/Johannesburg:20250711
+DTEND;TZID=Africa/Johannesburg:20250712
+SUMMARY:kay - Themba Appoint Dr Mol @9.15
+UID:10372@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250606T141204
+DTSTART;TZID=Africa/Johannesburg:20250708
+DTEND;TZID=Africa/Johannesburg:20250709
+SUMMARY:kay - Email Dr Mol re Themba
+UID:10373@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250520T132548
+DTSTART;TZID=Africa/Johannesburg:20250707
+DTEND;TZID=Africa/Johannesburg:20250708
+SUMMARY:Imange Ntsantsa - Order Pediasure\,Nappies\, Apple
+UID:10109@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250520T132504
+DTSTART;TZID=Africa/Johannesburg:20250721
+DTEND;TZID=Africa/Johannesburg:20250722
+SUMMARY:Imange Ntsantsa - Organise Imange Delivery
+UID:10177@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250718T094508
+DTSTART;TZID=Africa/Johannesburg:20150802
+DTEND;TZID=Africa/Johannesburg:20170801
+SUMMARY:Complete: Zoey Terblanche - Zoey Follow up Dr Koekemoer - 
+DESCRIPTION:Now seeing Dr at Krugersdorp Hospital.  R1000 send cash used fo
+ r first consultation\, thereafter arrange for EFT after visits.
+UID:10333@in-contact.org
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+END:VCALENDAR
