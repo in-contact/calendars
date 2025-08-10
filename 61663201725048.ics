@@ -214,6 +214,16 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250528T162840
+DTSTART;TZID=Africa/Johannesburg:20251110
+DTEND;TZID=Africa/Johannesburg:20251111
+SUMMARY:kay - Godswill Remind Favour and sen
+DESCRIPTION:Check up Neuro Clinic on Wednesday
+UID:10371@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250802T110021
 DTSTART;TZID=Africa/Johannesburg:20250711
 DTEND;TZID=Africa/Johannesburg:20250712
@@ -232,7 +242,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250806T144246
+DTSTAMP;TZID=Africa/Johannesburg:20250806T150014
 DTSTART;TZID=Africa/Johannesburg:20250806
 DTEND;TZID=Africa/Johannesburg:20250807
 SUMMARY:kay - Test appt reminder
@@ -241,7 +251,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250806T144302
+DTSTAMP;TZID=Africa/Johannesburg:20250806T150015
 DTSTART;TZID=Africa/Johannesburg:20250807
 DTEND;TZID=Africa/Johannesburg:20250808
 SUMMARY:kay - test appt reminder
@@ -269,8 +279,8 @@ SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250802T110021
-DTSTART;TZID=Africa/Johannesburg:20150806
-DTEND;TZID=Africa/Johannesburg:20170805
+DTSTART;TZID=Africa/Johannesburg:20150810
+DTEND;TZID=Africa/Johannesburg:20170809
 SUMMARY:Complete: Zoey Terblanche - Zoey Follow up Dr Koekemoer - 
 DESCRIPTION:Now seeing Dr at Krugersdorp Hospital.  R1000 send cash used fo
  r first consultation\, thereafter arrange for EFT after visits.
