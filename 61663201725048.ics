@@ -214,7 +214,16 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250528T162840
+DTSTAMP;TZID=Africa/Johannesburg:20250528T150911
+DTSTART;TZID=Africa/Johannesburg:20251111
+DTEND;TZID=Africa/Johannesburg:20251112
+SUMMARY:kay - Godswill confirm Uber time
+UID:10370@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250810T070012
 DTSTART;TZID=Africa/Johannesburg:20251110
 DTEND;TZID=Africa/Johannesburg:20251111
 SUMMARY:kay - Godswill Remind Favour and sen
@@ -279,8 +288,8 @@ SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250802T110021
-DTSTART;TZID=Africa/Johannesburg:20150810
-DTEND;TZID=Africa/Johannesburg:20170809
+DTSTART;TZID=Africa/Johannesburg:20150811
+DTEND;TZID=Africa/Johannesburg:20170810
 SUMMARY:Complete: Zoey Terblanche - Zoey Follow up Dr Koekemoer - 
 DESCRIPTION:Now seeing Dr at Krugersdorp Hospital.  R1000 send cash used fo
  r first consultation\, thereafter arrange for EFT after visits.
