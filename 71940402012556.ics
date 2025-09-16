@@ -15,7 +15,7 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250916T113816
+DTSTAMP;TZID=Africa/Johannesburg:20250916T120011
 DTSTART;TZID=Africa/Johannesburg:20150916
 DTEND;TZID=Africa/Johannesburg:20170915
 SUMMARY:Complete: Department of Sport\, Arts and Culture - Submit Re
@@ -24,7 +24,7 @@ STATUS:CANCELLED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250916T113819
+DTSTAMP;TZID=Africa/Johannesburg:20250916T120012
 DTSTART;TZID=Africa/Johannesburg:20150916
 DTEND;TZID=Africa/Johannesburg:20170915
 SUMMARY:Complete: Department of Sport\, Arts and Culture - Return Si
@@ -33,12 +33,58 @@ STATUS:CANCELLED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250916T113856
+DTSTAMP;TZID=Africa/Johannesburg:20250916T120012
 DTSTART;TZID=Africa/Johannesburg:20150916
 DTEND;TZID=Africa/Johannesburg:20170915
 SUMMARY:Complete: Department of Sport\, Arts and Culture - Send Lett
 UID:1038@in-contact.org
 STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250916T143301
+DTSTART;TZID=Africa/Johannesburg:20150916
+DTEND;TZID=Africa/Johannesburg:20170915
+SUMMARY:Complete: Rupert Music Foundation - Submit proposal - Louis'
+UID:1040@in-contact.org
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250916T143450
+DTSTART;TZID=Africa/Johannesburg:20150916
+DTEND;TZID=Africa/Johannesburg:20170915
+SUMMARY:Complete: Rupert Music Foundation - Submit Revised Budget
+UID:1041@in-contact.org
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250916T143636
+DTSTART;TZID=Africa/Johannesburg:20150916
+DTEND;TZID=Africa/Johannesburg:20170915
+SUMMARY:Complete: Rupert Music Foundation - Application approved
+DESCRIPTION:R300\,000 for the concert on 4 December to be paid in November
+UID:1042@in-contact.org
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250916T144510
+DTSTART;TZID=Africa/Johannesburg:20150916
+DTEND;TZID=Africa/Johannesburg:20170915
+SUMMARY:Complete: Albert Wessels Trust - Complete online grant appli
+UID:1043@in-contact.org
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20250916T144531
+DTSTART;TZID=Africa/Johannesburg:20251001
+DTEND;TZID=Africa/Johannesburg:20251002
+SUMMARY:Albert Wessels Trust - Expected Outcome
+UID:1044@in-contact.org
+STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
