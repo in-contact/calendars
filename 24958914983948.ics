@@ -16,24 +16,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250802T110009
-DTSTART;TZID=Africa/Johannesburg:20250821
-DTEND;TZID=Africa/Johannesburg:20250822
-SUMMARY:Aphile Kheswa - Court Order Expires
-UID:103593@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110009
-DTSTART;TZID=Africa/Johannesburg:20250821
-DTEND;TZID=Africa/Johannesburg:20250822
-SUMMARY:Aphelele Kheswa - Court Order Expires
-UID:103609@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110009
 DTSTART;TZID=Africa/Johannesburg:20250922
 DTEND;TZID=Africa/Johannesburg:20250923
 SUMMARY:Mandisa Mkhize - Court Order Expires
@@ -60,25 +42,16 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110009
-DTSTART;TZID=Africa/Johannesburg:20250821
-DTEND;TZID=Africa/Johannesburg:20250822
-SUMMARY:Uyomukela Mkhize - Court Order Expires
-UID:104070@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20240903T143751
+DTSTART;TZID=Africa/Johannesburg:20260226
+DTEND;TZID=Africa/Johannesburg:20260227
+SUMMARY:Amahle Msomi - Court Order Expires
+UID:104240@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110009
-DTSTART;TZID=Africa/Johannesburg:20250720
-DTEND;TZID=Africa/Johannesburg:20250721
-SUMMARY:Sbonelo Zondo - Court Order Expires
-UID:104305@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20240904T123236
+DTSTAMP;TZID=Africa/Johannesburg:20250817T070008
 DTSTART;TZID=Africa/Johannesburg:20251117
 DTEND;TZID=Africa/Johannesburg:20251118
 SUMMARY:Nontando Ngcobo - Court Order Expires
