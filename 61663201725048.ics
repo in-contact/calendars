@@ -15,7 +15,7 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250318T114057
+DTSTAMP;TZID=Africa/Johannesburg:20251026T070010
 DTSTART;TZID=Africa/Johannesburg:20260126
 DTEND;TZID=Africa/Johannesburg:20260127
 SUMMARY:kay - Godswill Genetics Appt
@@ -42,62 +42,6 @@ SUMMARY:kay - Uber Time from Favour
 UID:10327@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110021
-DTSTART;TZID=Africa/Johannesburg:20250820
-DTEND;TZID=Africa/Johannesburg:20250821
-SUMMARY:kay - Godswill Medication Collection
-DESCRIPTION:Monthly repeat medication collection
-UID:10360@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110021
-DTSTART;TZID=Africa/Johannesburg:20250819
-DTEND;TZID=Africa/Johannesburg:20250820
-SUMMARY:kay -  GodswillConfirm Uber time 
-UID:10361@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250802T110021
-DTSTART;TZID=Africa/Johannesburg:20250818
-DTEND;TZID=Africa/Johannesburg:20250819
-SUMMARY:kay - Godswill Remind Favour and sen
-UID:10362@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20151026
-DTEND;TZID=Africa/Johannesburg:20171025
-SUMMARY:Deleted: kay - Godswill medication Collection
-DESCRIPTION:Collect repeat
-UID:10363@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20151026
-DTEND;TZID=Africa/Johannesburg:20171025
-SUMMARY:Deleted: kay - Godswill Confirm Uber time
-UID:10364@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20151026
-DTEND;TZID=Africa/Johannesburg:20171025
-SUMMARY:Deleted: kay - Godswill Remind Favour and sen
-UID:10365@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
@@ -157,56 +101,119 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250806T150014
-DTSTART;TZID=Africa/Johannesburg:20250806
-DTEND;TZID=Africa/Johannesburg:20250807
-SUMMARY:kay - Test appt reminder
-UID:10374@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
+DTSTART;TZID=Africa/Johannesburg:20251210
+DTEND;TZID=Africa/Johannesburg:20251211
+SUMMARY:kay - Godswill Collect Medication CM
+UID:10408@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250806T150015
-DTSTART;TZID=Africa/Johannesburg:20250807
-DTEND;TZID=Africa/Johannesburg:20250808
-SUMMARY:kay - test appt reminder
-UID:10375@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
+DTSTART;TZID=Africa/Johannesburg:20251208
+DTEND;TZID=Africa/Johannesburg:20251209
+SUMMARY:kay - Remind Favour Godswill meds & 
+UID:10409@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20250910
-DTEND;TZID=Africa/Johannesburg:20250911
+DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
+DTSTART;TZID=Africa/Johannesburg:20251209
+DTEND;TZID=Africa/Johannesburg:20251210
+SUMMARY:kay - Confirm Uber for tomorrow
+UID:10410@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
+DTSTART;TZID=Africa/Johannesburg:20260107
+DTEND;TZID=Africa/Johannesburg:20260108
 SUMMARY:kay - Godswill Medication CMJAH
-UID:10376@in-contact.org
+UID:10411@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20250909
-DTEND;TZID=Africa/Johannesburg:20250910
-SUMMARY:kay -  Godswill Confirm Uber tomorro
-UID:10377@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
+DTSTART;TZID=Africa/Johannesburg:20260105
+DTEND;TZID=Africa/Johannesburg:20260106
+SUMMARY:kay - Remind Favour & Send cash
+UID:10412@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20250908
-DTEND;TZID=Africa/Johannesburg:20250909
-SUMMARY:kay - Godswill send cash for Medicat
-UID:10378@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
+DTSTART;TZID=Africa/Johannesburg:20260106
+DTEND;TZID=Africa/Johannesburg:20260107
+SUMMARY:kay - Remind  Uber
+UID:10413@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250903T104642
-DTSTART;TZID=Africa/Johannesburg:20250909
-DTEND;TZID=Africa/Johannesburg:20250910
-SUMMARY:kay - Mpilo OT @ 8.00am
-UID:10396@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20251202T144320
+DTSTART;TZID=Africa/Johannesburg:20260202
+DTEND;TZID=Africa/Johannesburg:20260203
+SUMMARY:kay - Godswill - Remind Favour & sen
+UID:10414@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251202T144320
+DTSTART;TZID=Africa/Johannesburg:20260203
+DTEND;TZID=Africa/Johannesburg:20260204
+SUMMARY:kay - Godswill uber time tomorrow
+UID:10415@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251202T144320
+DTSTART;TZID=Africa/Johannesburg:20260204
+DTEND;TZID=Africa/Johannesburg:20260205
+SUMMARY:kay - Godswill CMJAH Medication
+UID:10416@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251202T144320
+DTSTART;TZID=Africa/Johannesburg:20260302
+DTEND;TZID=Africa/Johannesburg:20260303
+SUMMARY:kay - Godswill Remind Favour and sen
+UID:10417@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251203T003411
+DTSTART;TZID=Africa/Johannesburg:20260303
+DTEND;TZID=Africa/Johannesburg:20260304
+SUMMARY:kay - Godswil Uber time for tomorrow
+UID:10418@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251204T003854
+DTSTART;TZID=Africa/Johannesburg:20260304
+DTEND;TZID=Africa/Johannesburg:20260305
+SUMMARY:kay - Godswill CMJAH Medication
+UID:10419@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20251202T143944
+DTSTART;TZID=Africa/Johannesburg:20260330
+DTEND;TZID=Africa/Johannesburg:20260331
+SUMMARY:kay - Godswill Remind Favour & send 
+UID:10420@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
