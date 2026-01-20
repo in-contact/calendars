@@ -15,15 +15,6 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250919T144413
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
-SUMMARY:Deleted: iris - aaa
-UID:103960@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251030T100020
 DTSTART;TZID=Africa/Johannesburg:20251124
 DTEND;TZID=Africa/Johannesburg:20251125
@@ -44,12 +35,12 @@ STATUS:CONFIRMED
 SEQUENCE:6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250919T100013
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
-SUMMARY:Deleted: Iris Cochrane - aaaaaaaa
-UID:103958@in-contact.org
-STATUS:CANCELLED
+DTSTAMP;TZID=Africa/Johannesburg:20260120T134928
+DTSTART;TZID=Africa/Johannesburg:20260120
+DTEND;TZID=Africa/Johannesburg:20260121
+SUMMARY:Iris Cochrane - aaaaaaaaa
+UID:103969@in-contact.org
+STATUS:CONFIRMED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
@@ -63,26 +54,17 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
+DTSTART;TZID=Africa/Johannesburg:20160120
+DTEND;TZID=Africa/Johannesburg:20180119
 SUMMARY:Deleted: Kids Haven  - Raise Invoice for Year
 UID:103512@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251209T153922
-DTSTART;TZID=Africa/Johannesburg:20251209
-DTEND;TZID=Africa/Johannesburg:20251210
-SUMMARY:Botshabelo - Raise invoice for year
-UID:103592@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:4
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
+DTSTART;TZID=Africa/Johannesburg:20160120
+DTEND;TZID=Africa/Johannesburg:20180119
 SUMMARY:Complete: Cape Town Philharmonic Orchestra - Contact
 DESCRIPTION:Ask if she wants a call
 UID:103929@in-contact.org
@@ -91,8 +73,8 @@ SEQUENCE:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
+DTSTART;TZID=Africa/Johannesburg:20160120
+DTEND;TZID=Africa/Johannesburg:20180119
 SUMMARY:Complete: St Josephs Home - Contact
 DESCRIPTION:Ask if she wants a call
 UID:103930@in-contact.org
@@ -101,8 +83,8 @@ SEQUENCE:10
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251029T150010
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
+DTSTART;TZID=Africa/Johannesburg:20160120
+DTEND;TZID=Africa/Johannesburg:20180119
 SUMMARY:Complete: Venues For Conferences - Contact
 DESCRIPTION:Check if the number of events is looking positive for next year
 UID:103932@in-contact.org
@@ -111,8 +93,8 @@ SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251029T150010
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
+DTSTART;TZID=Africa/Johannesburg:20160120
+DTEND;TZID=Africa/Johannesburg:20180119
 SUMMARY:Complete: Umthombo - Contact
 DESCRIPTION:Did he manage to get funding from the bank?
 UID:103934@in-contact.org
@@ -121,48 +103,11 @@ SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251020T080016
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
+DTSTART;TZID=Africa/Johannesburg:20160120
+DTEND;TZID=Africa/Johannesburg:20180119
 SUMMARY:Deleted: Hillcrest AIDS Centre Trust - Contact
 UID:103941@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250919T160010
-DTSTART;TZID=Africa/Johannesburg:20250923
-DTEND;TZID=Africa/Johannesburg:20250924
-SUMMARY:Summerhill House - Check on things
-DESCRIPTION:They were going to meet on about the 25th to discuss
-UID:103953@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250915T124928
-DTSTART;TZID=Africa/Johannesburg:20250926
-DTEND;TZID=Africa/Johannesburg:20250927
-SUMMARY:Penreach - Follow up on leads
-UID:103954@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250919T134413
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
-SUMMARY:Deleted: Penreach - zzzz
-UID:103959@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250919T144413
-DTSTART;TZID=Africa/Johannesburg:20151209
-DTEND;TZID=Africa/Johannesburg:20171208
-SUMMARY:Deleted: 247 Technologies - aaa
-UID:103961@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:2
 END:VEVENT
 END:VCALENDAR
