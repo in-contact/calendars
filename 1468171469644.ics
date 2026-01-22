@@ -26,6 +26,15 @@ STATUS:CONFIRMED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260122T155432
+DTSTART;TZID=Africa/Johannesburg:20260123
+DTEND;TZID=Africa/Johannesburg:20260124
+SUMMARY: - Test User Allday
+UID:103970@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251105T150005
 DTSTART;TZID=Africa/Johannesburg:20260205
 DTEND;TZID=Africa/Johannesburg:20260206
@@ -35,9 +44,9 @@ STATUS:CONFIRMED
 SEQUENCE:6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260120T161202
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
+DTSTAMP;TZID=Africa/Johannesburg:20260120T170005
+DTSTART;TZID=Africa/Johannesburg:20160122
+DTEND;TZID=Africa/Johannesburg:20180121
 SUMMARY:Deleted: Iris Cochrane - aaaaaaaaa
 UID:103969@in-contact.org
 STATUS:CANCELLED
@@ -54,8 +63,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
+DTSTART;TZID=Africa/Johannesburg:20160122
+DTEND;TZID=Africa/Johannesburg:20180121
 SUMMARY:Deleted: Kids Haven  - Raise Invoice for Year
 UID:103512@in-contact.org
 STATUS:CANCELLED
@@ -63,8 +72,8 @@ SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
+DTSTART;TZID=Africa/Johannesburg:20160122
+DTEND;TZID=Africa/Johannesburg:20180121
 SUMMARY:Complete: Cape Town Philharmonic Orchestra - Contact
 DESCRIPTION:Ask if she wants a call
 UID:103929@in-contact.org
@@ -73,41 +82,12 @@ SEQUENCE:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
+DTSTART;TZID=Africa/Johannesburg:20160122
+DTEND;TZID=Africa/Johannesburg:20180121
 SUMMARY:Complete: St Josephs Home - Contact
 DESCRIPTION:Ask if she wants a call
 UID:103930@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:10
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251029T150010
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
-SUMMARY:Complete: Venues For Conferences - Contact
-DESCRIPTION:Check if the number of events is looking positive for next year
-UID:103932@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251029T150010
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
-SUMMARY:Complete: Umthombo - Contact
-DESCRIPTION:Did he manage to get funding from the bank?
-UID:103934@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251020T080016
-DTSTART;TZID=Africa/Johannesburg:20160120
-DTEND;TZID=Africa/Johannesburg:20180119
-SUMMARY:Deleted: Hillcrest AIDS Centre Trust - Contact
-UID:103941@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:4
 END:VEVENT
 END:VCALENDAR
