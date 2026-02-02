@@ -15,7 +15,7 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260130T130110
+DTSTAMP;TZID=Africa/Johannesburg:20260130T140006
 DTSTART;TZID=Africa/Johannesburg:20260202
 DTEND;TZID=Africa/Johannesburg:20260203
 SUMMARY:Discovery Trust - Email Nasipi
@@ -23,6 +23,37 @@ DESCRIPTION:Email Nasipi for application forms. Did email her on 19 Jan 202
  6
 UID:10105641@in-contact.org
 STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260202T120621
+DTSTART;TZID=Africa/Johannesburg:20260202T080000
+DTEND;TZID=Africa/Johannesburg:20260720T090000
+SUMMARY:Investec (Rachel du Toit Charitable Trust) - Mid-Year Impact
+DESCRIPTION:Complete their specific form
+UID:10105647@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260202T120826
+DTSTART;TZID=Africa/Johannesburg:20260202T080000
+DTEND;TZID=Africa/Johannesburg:20270118T090000
+SUMMARY:Investec (Rachel du Toit Charitable Trust) - Submit Year-End
+DESCRIPTION:Complete their report form\, include financials and results
+UID:10105648@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260202T122334
+DTSTART;TZID=Africa/Johannesburg:20160202
+DTEND;TZID=Africa/Johannesburg:20180201
+SUMMARY:Complete: First Rand Empowerment Fund - Submit report
+DESCRIPTION:Report was submitted but not on their template as it wasn't pro
+ vided
+UID:10105649@in-contact.org
+STATUS:CANCELLED
 SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
