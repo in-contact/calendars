@@ -44,34 +44,6 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20251008
-DTEND;TZID=Africa/Johannesburg:20251009
-SUMMARY:kay - Godswill Medication Collection
-DESCRIPTION:Monthly medication repeat
-UID:10366@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20251007
-DTEND;TZID=Africa/Johannesburg:20251008
-SUMMARY:kay - Godswill confirm uber time
-UID:10367@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250819T134955
-DTSTART;TZID=Africa/Johannesburg:20251006
-DTEND;TZID=Africa/Johannesburg:20251007
-SUMMARY:kay - Godswill remind Favour and sen
-UID:10368@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20250812T010711
 DTSTART;TZID=Africa/Johannesburg:20251112
 DTEND;TZID=Africa/Johannesburg:20251113
@@ -227,7 +199,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251202T144038
+DTSTAMP;TZID=Africa/Johannesburg:20260101T070009
 DTSTART;TZID=Africa/Johannesburg:20260401
 DTEND;TZID=Africa/Johannesburg:20260402
 SUMMARY:kay - Godswill CMJAH Medication
@@ -236,21 +208,30 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251001T145905
-DTSTART;TZID=Africa/Johannesburg:20251001
-DTEND;TZID=Africa/Johannesburg:20251002
-SUMMARY:Imange Ntsantsa - Imange Bags Delivered
-UID:10397@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20260206T115131
+DTSTART;TZID=Africa/Johannesburg:20260223
+DTEND;TZID=Africa/Johannesburg:20260224
+SUMMARY:kay - Godswill Remind Favour
+DESCRIPTION:send R400 being R200 x 2 months medication
+UID:10433@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251001T145905
-DTSTART;TZID=Africa/Johannesburg:20251007
-DTEND;TZID=Africa/Johannesburg:20251008
-SUMMARY:Imange Ntsantsa - Arrange Imange Delivery today
-DESCRIPTION:Nappies & Apples Juice
-UID:10398@in-contact.org
+DTSTAMP;TZID=Africa/Johannesburg:20260206T115155
+DTSTART;TZID=Africa/Johannesburg:20260224
+DTEND;TZID=Africa/Johannesburg:20260225
+SUMMARY:kay - Favour Uber time
+UID:10434@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260206T115217
+DTSTART;TZID=Africa/Johannesburg:20260225
+DTEND;TZID=Africa/Johannesburg:20260226
+SUMMARY:kay - Godswill Medication x 2 CMJAH
+UID:10435@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
