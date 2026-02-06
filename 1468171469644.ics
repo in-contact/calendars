@@ -26,27 +26,27 @@ STATUS:CONFIRMED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260122T161009
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted:  - Test User Allday
 UID:103970@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260122T161018
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted:  - Test User Multi
 UID:103971@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260122T163549
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted: iris - Test User Time
 UID:103972@in-contact.org
 STATUS:CANCELLED
@@ -63,53 +63,54 @@ SEQUENCE:6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260120T170005
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted: Iris Cochrane - aaaaaaaaa
 UID:103969@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260122T163529
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted: Jabu Shange - Test Contact Single
 UID:103973@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260122T163519
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted: Jabu Shange - Test Contact Multi
 UID:103974@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260122T163539
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted: Jabu Shange - Test Contact Slot
 UID:103975@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251119T070004
-DTSTART;TZID=Africa/Johannesburg:20260219
-DTEND;TZID=Africa/Johannesburg:20260220
+DTSTAMP;TZID=Africa/Johannesburg:20260206T162437
+DTSTART;TZID=Africa/Johannesburg:20260218
+DTEND;TZID=Africa/Johannesburg:20260219
 SUMMARY:National Freedom Network - Raise Invoice for Year
+DESCRIPTION:Aa
 UID:103509@in-contact.org
 STATUS:CONFIRMED
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Deleted: Kids Haven  - Raise Invoice for Year
 UID:103512@in-contact.org
 STATUS:CANCELLED
@@ -117,8 +118,8 @@ SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Complete: Cape Town Philharmonic Orchestra - Contact
 DESCRIPTION:Ask if she wants a call
 UID:103929@in-contact.org
@@ -127,8 +128,8 @@ SEQUENCE:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160122
-DTEND;TZID=Africa/Johannesburg:20180121
+DTSTART;TZID=Africa/Johannesburg:20160206
+DTEND;TZID=Africa/Johannesburg:20180205
 SUMMARY:Complete: St Josephs Home - Contact
 DESCRIPTION:Ask if she wants a call
 UID:103930@in-contact.org
