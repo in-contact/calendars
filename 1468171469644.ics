@@ -27,8 +27,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted:  - Test User Allday
 UID:103970@in-contact.org
 STATUS:CANCELLED
@@ -36,8 +36,8 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted:  - Test User Multi
 UID:103971@in-contact.org
 STATUS:CANCELLED
@@ -45,8 +45,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted: iris - Test User Time
 UID:103972@in-contact.org
 STATUS:CANCELLED
@@ -54,8 +54,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260209T150007
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted:  - test
 UID:103976@in-contact.org
 STATUS:CANCELLED
@@ -63,8 +63,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260209T150007
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted:  - test2
 UID:103977@in-contact.org
 STATUS:CANCELLED
@@ -72,8 +72,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260209T150007
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted:  - aaaa
 UID:103978@in-contact.org
 STATUS:CANCELLED
@@ -90,8 +90,8 @@ SEQUENCE:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260120T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted: Iris Cochrane - aaaaaaaaa
 UID:103969@in-contact.org
 STATUS:CANCELLED
@@ -99,8 +99,8 @@ SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted: Jabu Shange - Test Contact Single
 UID:103973@in-contact.org
 STATUS:CANCELLED
@@ -108,8 +108,8 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted: Jabu Shange - Test Contact Multi
 UID:103974@in-contact.org
 STATUS:CANCELLED
@@ -117,59 +117,29 @@ SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260122T170005
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted: Jabu Shange - Test Contact Slot
 UID:103975@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260209T150007
-DTSTART;TZID=Africa/Johannesburg:20260219
-DTEND;TZID=Africa/Johannesburg:20260220
-SUMMARY:National Freedom Network - Raise Invoice for Year
-DESCRIPTION:Aa
-UID:103509@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:4
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
 SUMMARY:Deleted: Kids Haven  - Raise Invoice for Year
 UID:103512@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
-SUMMARY:Complete: Cape Town Philharmonic Orchestra - Contact
-DESCRIPTION:Ask if she wants a call
-UID:103929@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251119T100003
-DTSTART;TZID=Africa/Johannesburg:20160211
-DTEND;TZID=Africa/Johannesburg:20180210
-SUMMARY:Complete: St Josephs Home - Contact
-DESCRIPTION:Ask if she wants a call
-UID:103930@in-contact.org
-STATUS:CANCELLED
-SEQUENCE:10
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260211T154307
-DTSTART;TZID=Africa/Johannesburg:20260219
-DTEND;TZID=Africa/Johannesburg:20260220
-SUMMARY:The Almond Tree - Cancel Invoicing
+DTSTAMP;TZID=Africa/Johannesburg:20260219T083956
+DTSTART;TZID=Africa/Johannesburg:20160219
+DTEND;TZID=Africa/Johannesburg:20180218
+SUMMARY:Complete: The Almond Tree - Cancel Invoicing
 UID:103979@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:2
+STATUS:CANCELLED
+SEQUENCE:3
 END:VEVENT
 END:VCALENDAR
