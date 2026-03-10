@@ -26,7 +26,18 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260202T120621
+DTSTAMP;TZID=Africa/Johannesburg:20260130T143730
+DTSTART;TZID=Africa/Johannesburg:20260610
+DTEND;TZID=Africa/Johannesburg:20260611
+SUMMARY:Bidvest Corporate Services (Pty) Ltd - Bidvest Application
+DESCRIPTION:Apply for 20 students. Received R1\,1 million in 2026 for 20 st
+ udents
+UID:10105642@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260202T130007
 DTSTART;TZID=Africa/Johannesburg:20260202T080000
 DTEND;TZID=Africa/Johannesburg:20260720T090000
 SUMMARY:Investec (Rachel du Toit Charitable Trust) - Mid-Year Impact
@@ -36,7 +47,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260202T120826
+DTSTAMP;TZID=Africa/Johannesburg:20260202T130007
 DTSTART;TZID=Africa/Johannesburg:20260202T080000
 DTEND;TZID=Africa/Johannesburg:20270118T090000
 SUMMARY:Investec (Rachel du Toit Charitable Trust) - Submit Year-End
@@ -46,9 +57,9 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260202T122334
-DTSTART;TZID=Africa/Johannesburg:20160202
-DTEND;TZID=Africa/Johannesburg:20180201
+DTSTAMP;TZID=Africa/Johannesburg:20260202T130007
+DTSTART;TZID=Africa/Johannesburg:20160310
+DTEND;TZID=Africa/Johannesburg:20180309
 SUMMARY:Complete: First Rand Empowerment Fund - Submit report
 DESCRIPTION:Report was submitted but not on their template as it wasn't pro
  vided
