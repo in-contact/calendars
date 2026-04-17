@@ -44,89 +44,6 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250812T010711
-DTSTART;TZID=Africa/Johannesburg:20251112
-DTEND;TZID=Africa/Johannesburg:20251113
-SUMMARY:kay - Godswill Neuro Clinic Check up
-DESCRIPTION:CMJAH Room 297 @ 7.30am
-UID:10369@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250811T070009
-DTSTART;TZID=Africa/Johannesburg:20251111
-DTEND;TZID=Africa/Johannesburg:20251112
-SUMMARY:kay - Godswill confirm Uber time
-UID:10370@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20250810T070012
-DTSTART;TZID=Africa/Johannesburg:20251110
-DTEND;TZID=Africa/Johannesburg:20251111
-SUMMARY:kay - Godswill Remind Favour and sen
-DESCRIPTION:Check up Neuro Clinic on Wednesday
-UID:10371@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
-DTSTART;TZID=Africa/Johannesburg:20251210
-DTEND;TZID=Africa/Johannesburg:20251211
-SUMMARY:kay - Godswill Collect Medication CM
-UID:10408@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
-DTSTART;TZID=Africa/Johannesburg:20251208
-DTEND;TZID=Africa/Johannesburg:20251209
-SUMMARY:kay - Remind Favour Godswill meds & 
-UID:10409@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
-DTSTART;TZID=Africa/Johannesburg:20251209
-DTEND;TZID=Africa/Johannesburg:20251210
-SUMMARY:kay - Confirm Uber for tomorrow
-UID:10410@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
-DTSTART;TZID=Africa/Johannesburg:20260107
-DTEND;TZID=Africa/Johannesburg:20260108
-SUMMARY:kay - Godswill Medication CMJAH
-UID:10411@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
-DTSTART;TZID=Africa/Johannesburg:20260105
-DTEND;TZID=Africa/Johannesburg:20260106
-SUMMARY:kay - Remind Favour & Send cash
-UID:10412@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251112T164351
-DTSTART;TZID=Africa/Johannesburg:20260106
-DTEND;TZID=Africa/Johannesburg:20260107
-SUMMARY:kay - Remind  Uber
-UID:10413@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251202T144320
 DTSTART;TZID=Africa/Johannesburg:20260202
 DTEND;TZID=Africa/Johannesburg:20260203
@@ -154,31 +71,31 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251202T144320
-DTSTART;TZID=Africa/Johannesburg:20260302
-DTEND;TZID=Africa/Johannesburg:20260303
-SUMMARY:kay - Godswill Remind Favour and sen
+DTSTAMP;TZID=Africa/Johannesburg:20260302T154405
+DTSTART;TZID=Africa/Johannesburg:20160417
+DTEND;TZID=Africa/Johannesburg:20180416
+SUMMARY:Deleted: kay - Godswill Remind Favour and sen
 UID:10417@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
+STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251203T003411
-DTSTART;TZID=Africa/Johannesburg:20260303
-DTEND;TZID=Africa/Johannesburg:20260304
-SUMMARY:kay - Godswil Uber time for tomorrow
+DTSTAMP;TZID=Africa/Johannesburg:20260302T154405
+DTSTART;TZID=Africa/Johannesburg:20160417
+DTEND;TZID=Africa/Johannesburg:20180416
+SUMMARY:Deleted: kay - Godswil Uber time for tomorrow
 UID:10418@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
+STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251204T003854
-DTSTART;TZID=Africa/Johannesburg:20260304
-DTEND;TZID=Africa/Johannesburg:20260305
-SUMMARY:kay - Godswill CMJAH Medication
+DTSTAMP;TZID=Africa/Johannesburg:20260302T154405
+DTSTART;TZID=Africa/Johannesburg:20160417
+DTEND;TZID=Africa/Johannesburg:20180416
+SUMMARY:Deleted: kay - Godswill CMJAH Medication
 UID:10419@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
+STATUS:CANCELLED
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20251230T070005
@@ -236,7 +153,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260209T123415
+DTSTAMP;TZID=Africa/Johannesburg:20260209T130008
 DTSTART;TZID=Africa/Johannesburg:20260212
 DTEND;TZID=Africa/Johannesburg:20260213
 SUMMARY:kay - Remind Margo re Keyolin appt &
@@ -245,11 +162,69 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260209T123441
+DTSTAMP;TZID=Africa/Johannesburg:20260209T130008
 DTSTART;TZID=Africa/Johannesburg:20260213
 DTEND;TZID=Africa/Johannesburg:20260214
 SUMMARY:kay - Keyolin Uber to Melinda
 UID:10442@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260417T120904
+DTSTART;TZID=Africa/Johannesburg:20260415
+DTEND;TZID=Africa/Johannesburg:20260416
+SUMMARY:kay - Imange's supplies delivered
+UID:10491@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260417T120951
+DTSTART;TZID=Africa/Johannesburg:20260609
+DTEND;TZID=Africa/Johannesburg:20260610
+SUMMARY:kay - Organise Imange's delivery for
+UID:10492@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260417T121006
+DTSTART;TZID=Africa/Johannesburg:20260617
+DTEND;TZID=Africa/Johannesburg:20260618
+SUMMARY:kay - Imange Delivery today
+UID:10493@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260417T121051
+DTSTART;TZID=Africa/Johannesburg:20260512
+DTEND;TZID=Africa/Johannesburg:20260513
+SUMMARY:kay - Order Imange Bags & Supplies
+UID:10494@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260417T121630
+DTSTART;TZID=Africa/Johannesburg:20260423
+DTEND;TZID=Africa/Johannesburg:20260424
+SUMMARY:kay - Godswill - Favour remind
+DESCRIPTION:Pediasure and does she have enough medication until second week
+  of May?  Would need to go to CMJAH on 13th May to Neuro Clinic for new sc
+ ript
+UID:10495@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260417T121723
+DTSTART;TZID=Africa/Johannesburg:20260424
+DTEND;TZID=Africa/Johannesburg:20260425
+SUMMARY:kay - Grace - Hospital Payment today
+DESCRIPTION:Let Tiffani know I'll be away and send POP
+UID:10496@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
