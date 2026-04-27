@@ -26,13 +26,22 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260130T143730
+DTSTAMP;TZID=Africa/Johannesburg:20260310T070006
 DTSTART;TZID=Africa/Johannesburg:20260610
 DTEND;TZID=Africa/Johannesburg:20260611
 SUMMARY:Bidvest Corporate Services (Pty) Ltd - Bidvest Application
 DESCRIPTION:Apply for 20 students. Received R1\,1 million in 2026 for 20 st
  udents
 UID:10105642@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260130T144035
+DTSTART;TZID=Africa/Johannesburg:20260727T080000
+DTEND;TZID=Africa/Johannesburg:20260727T090000
+SUMMARY:Bidvest Corporate Services (Pty) Ltd - Bidvest Student's mid
+UID:10105643@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
@@ -57,14 +66,13 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260202T130007
-DTSTART;TZID=Africa/Johannesburg:20160310
-DTEND;TZID=Africa/Johannesburg:20180309
-SUMMARY:Complete: First Rand Empowerment Fund - Submit report
-DESCRIPTION:Report was submitted but not on their template as it wasn't pro
- vided
-UID:10105649@in-contact.org
-STATUS:CANCELLED
+DTSTAMP;TZID=Africa/Johannesburg:20260202T122552
+DTSTART;TZID=Africa/Johannesburg:20260727T080000
+DTEND;TZID=Africa/Johannesburg:20260731T090000
+SUMMARY:First Rand Empowerment Fund - Report due 1 August
+DESCRIPTION:Student results and financial report to be included
+UID:10105650@in-contact.org
+STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
