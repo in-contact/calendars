@@ -15,42 +15,6 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251230T070005
-DTSTART;TZID=Africa/Johannesburg:20260330
-DTEND;TZID=Africa/Johannesburg:20260331
-SUMMARY:kay - Godswill Remind Favour & send 
-UID:10420@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20251231T005541
-DTSTART;TZID=Africa/Johannesburg:20260331
-DTEND;TZID=Africa/Johannesburg:20260401
-SUMMARY:kay - Godswill Uber time & Favour mu
-UID:10421@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260101T070009
-DTSTART;TZID=Africa/Johannesburg:20260401
-DTEND;TZID=Africa/Johannesburg:20260402
-SUMMARY:kay - Godswill CMJAH Medication
-UID:10422@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260417T120904
-DTSTART;TZID=Africa/Johannesburg:20260415
-DTEND;TZID=Africa/Johannesburg:20260416
-SUMMARY:kay - Imange's supplies delivered
-UID:10491@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260417T130008
 DTSTART;TZID=Africa/Johannesburg:20260609
 DTEND;TZID=Africa/Johannesburg:20260610
@@ -60,95 +24,16 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260609T170440
-DTSTART;TZID=Africa/Johannesburg:20160609
-DTEND;TZID=Africa/Johannesburg:20180608
+DTSTAMP;TZID=Africa/Johannesburg:20260609T180009
+DTSTART;TZID=Africa/Johannesburg:20160814
+DTEND;TZID=Africa/Johannesburg:20180813
 SUMMARY:Deleted: kay - Imange Delivery today
 UID:10493@in-contact.org
 STATUS:CANCELLED
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260417T130009
-DTSTART;TZID=Africa/Johannesburg:20260512
-DTEND;TZID=Africa/Johannesburg:20260513
-SUMMARY:kay - Order Imange Bags & Supplies
-UID:10494@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260417T130009
-DTSTART;TZID=Africa/Johannesburg:20260423
-DTEND;TZID=Africa/Johannesburg:20260424
-SUMMARY:kay - Godswill - Favour remind
-DESCRIPTION:Pediasure and does she have enough medication until second week
-  of May?  Would need to go to CMJAH on 13th May to Neuro Clinic for new sc
- ript
-UID:10495@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260417T130009
-DTSTART;TZID=Africa/Johannesburg:20260424
-DTEND;TZID=Africa/Johannesburg:20260425
-SUMMARY:kay - Grace - Hospital Payment today
-DESCRIPTION:Let Tiffani know I'll be away and send POP
-UID:10496@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260417T165649
-DTSTART;TZID=Africa/Johannesburg:20260422
-DTEND;TZID=Africa/Johannesburg:20260423
-SUMMARY:kay - Order Raiden Pediasure and let
-UID:10497@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260417T165649
-DTSTART;TZID=Africa/Johannesburg:20260424
-DTEND;TZID=Africa/Johannesburg:20260425
-SUMMARY:kay - Pay Owethu costs
-DESCRIPTION:Hospital to be paid.  Operation on 4th May
-UID:10498@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260423T130004
-DTSTART;TZID=Africa/Johannesburg:20260505T150000
-DTEND;TZID=Africa/Johannesburg:20260505T160000
-SUMMARY:kay - Rosswin Eye Test
-DESCRIPTION:Meyersdal Optometrist (Lauren Slade)\n
-UID:10521@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260423T133152
-DTSTART;TZID=Africa/Johannesburg:20260506
-DTEND;TZID=Africa/Johannesburg:20260507
-SUMMARY: - Owethu Surgery
-DESCRIPTION:Newmarket Day Hospital
-UID:10522@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260423T153759
-DTSTART;TZID=Africa/Johannesburg:20260511
-DTEND;TZID=Africa/Johannesburg:20260512
-SUMMARY:kay - Order 9 tins 1.6Kg Pediasure G
-UID:10523@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260609T170428
+DTSTAMP;TZID=Africa/Johannesburg:20260609T180009
 DTSTART;TZID=Africa/Johannesburg:20260610
 DTEND;TZID=Africa/Johannesburg:20260611
 SUMMARY:kay - Imange delivery
@@ -157,7 +42,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260609T170516
+DTSTAMP;TZID=Africa/Johannesburg:20260609T180009
 DTSTART;TZID=Africa/Johannesburg:20260803
 DTEND;TZID=Africa/Johannesburg:20260804
 SUMMARY:kay - Order Imange nappies etc
@@ -166,7 +51,7 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260609T170541
+DTSTAMP;TZID=Africa/Johannesburg:20260609T180009
 DTSTART;TZID=Africa/Johannesburg:20260812
 DTEND;TZID=Africa/Johannesburg:20260813
 SUMMARY:kay - Imange Delivery today
@@ -175,11 +60,78 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260609T170602
+DTSTAMP;TZID=Africa/Johannesburg:20260609T180009
 DTSTART;TZID=Africa/Johannesburg:20260811
 DTEND;TZID=Africa/Johannesburg:20260812
 SUMMARY:kay - Organise Imange Delivery
 UID:10534@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260611T125430
+DTSTART;TZID=Africa/Johannesburg:20260626
+DTEND;TZID=Africa/Johannesburg:20260627
+SUMMARY:kay - Faerie Glen Refund - Grace sur
+UID:10535@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260805T145614
+DTSTART;TZID=Africa/Johannesburg:20260811
+DTEND;TZID=Africa/Johannesburg:20260812
+SUMMARY:kay - Bright Ndlovu
+DESCRIPTION:Dental appointment at Dental Works @ 9h30
+UID:10552@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260805T145614
+DTSTART;TZID=Africa/Johannesburg:20260812
+DTEND;TZID=Africa/Johannesburg:20260813
+SUMMARY:kay - Tiffany Most
+DESCRIPTION:Appointment at Dental Works at 9h30
+UID:10553@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260805T145614
+DTSTART;TZID=Africa/Johannesburg:20260813
+DTEND;TZID=Africa/Johannesburg:20260814
+SUMMARY:kay - Lethokuhle Nkosi
+DESCRIPTION:Dental Appointment at Dental Works @ 9h30
+UID:10554@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260805T145614
+DTSTART;TZID=Africa/Johannesburg:20260915
+DTEND;TZID=Africa/Johannesburg:20260916
+SUMMARY:kay - Polite Shuma
+DESCRIPTION:Appointment at Ear & Eye Clinic.  Dr Mol @ 13h45
+UID:10555@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260814T131934
+DTSTART;TZID=Africa/Johannesburg:20260819
+DTEND;TZID=Africa/Johannesburg:20260820
+SUMMARY:kay - Sindile Psych Assessment
+UID:10592@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260814T131953
+DTSTART;TZID=Africa/Johannesburg:20260820
+DTEND;TZID=Africa/Johannesburg:20260821
+SUMMARY:kay - Sindile Psych Assessment
+UID:10593@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
