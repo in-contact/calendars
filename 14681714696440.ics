@@ -15,28 +15,6 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260130T140006
-DTSTART;TZID=Africa/Johannesburg:20260202
-DTEND;TZID=Africa/Johannesburg:20260203
-SUMMARY:Discovery Trust - Email Nasipi
-DESCRIPTION:Email Nasipi for application forms. Did email her on 19 Jan 202
- 6
-UID:10105641@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260310T070006
-DTSTART;TZID=Africa/Johannesburg:20260610
-DTEND;TZID=Africa/Johannesburg:20260611
-SUMMARY:Bidvest Corporate Services (Pty) Ltd - Bidvest Application
-DESCRIPTION:Apply for 20 students. Received R1\,1 million in 2026 for 20 st
- udents
-UID:10105642@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Africa/Johannesburg:20260427T070004
 DTSTART;TZID=Africa/Johannesburg:20260727T080000
 DTEND;TZID=Africa/Johannesburg:20260727T090000
@@ -76,7 +54,18 @@ STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260202T132344
+DTSTAMP;TZID=Africa/Johannesburg:20260202T122739
+DTSTART;TZID=Africa/Johannesburg:20270106T080000
+DTEND;TZID=Africa/Johannesburg:20270115T090000
+SUMMARY:First Rand Empowerment Fund - Report due 16 January 2027
+DESCRIPTION:Student results & financial report to be included and M&E Templ
+ ate
+UID:10105651@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260429T070006
 DTSTART;TZID=Africa/Johannesburg:20260729T080000
 DTEND;TZID=Africa/Johannesburg:20260805T090000
 SUMMARY:Norman Wevell Testamentary Trust - Report Mid-Year results
