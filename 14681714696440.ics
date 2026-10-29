@@ -15,31 +15,12 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260427T070004
-DTSTART;TZID=Africa/Johannesburg:20260727T080000
-DTEND;TZID=Africa/Johannesburg:20260727T090000
-SUMMARY:Bidvest Corporate Services (Pty) Ltd - Bidvest Student's mid
-UID:10105643@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260130T144237
+DTSTAMP;TZID=Africa/Johannesburg:20261019T075410
 DTSTART;TZID=Africa/Johannesburg:20270119T080000
 DTEND;TZID=Africa/Johannesburg:20270119T090000
 SUMMARY:Bidvest Corporate Services (Pty) Ltd - Bidvest student Repor
 DESCRIPTION:Year-end results
 UID:10105644@in-contact.org
-STATUS:CONFIRMED
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20260202T130007
-DTSTART;TZID=Africa/Johannesburg:20260202T080000
-DTEND;TZID=Africa/Johannesburg:20260720T090000
-SUMMARY:Investec (Rachel du Toit Charitable Trust) - Mid-Year Impact
-DESCRIPTION:Complete their specific form
-UID:10105647@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
@@ -82,6 +63,16 @@ SUMMARY:Norman Wevell Testamentary Trust - Report Mid-Year results
 DESCRIPTION:Report on the mid-year results\, add Annual report and request 
  support for 2027
 UID:10105660@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20260202T132509
+DTSTART;TZID=Africa/Johannesburg:20270129T080000
+DTEND;TZID=Africa/Johannesburg:20270203T090000
+SUMMARY:Norman Wevell Testamentary Trust - Report Year-end results
+DESCRIPTION:Year-end results
+UID:10105661@in-contact.org
 STATUS:CONFIRMED
 SEQUENCE:1
 END:VEVENT
