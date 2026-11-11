@@ -15,7 +15,18 @@ RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP;TZID=Africa/Johannesburg:20261111T103203
+DTSTAMP;TZID=Africa/Johannesburg:20261111T125125
+DTSTART;TZID=Africa/Johannesburg:20270104
+DTEND;TZID=Africa/Johannesburg:20270105
+SUMMARY: - Cancel donor
+DESCRIPTION:The donor (ellenfourie@hotmail.com) asked for a cancellation af
+ ter their December debit. CANCEL THEM NOW!
+UID:10127842@in-contact.org
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Africa/Johannesburg:20261111T110540
 DTSTART;TZID=Africa/Johannesburg:20161111
 DTEND;TZID=Africa/Johannesburg:20181110
 SUMMARY:Deleted: B Tlou - sdasdasd
